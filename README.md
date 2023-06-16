@@ -38,3 +38,5 @@ Contact
 If you would like to connect or collaborate on projects related to product management or product analyst, please feel free to reach out to me via tanzeemkhan29@gmail.com or https://www.linkedin.com/in/mohmmedtanzeem. I am always eager to learn, share knowledge, and contribute to meaningful initiatives.
 
 Let's embark on this journey of continuous learning and growth together!
+
+<a href="https://app.daily.dev/tanzeemkhan"><img src="https://api.daily.dev/devcards/f74362bda91743bc9feb720cbb19a943.png?r=b6y" width="400" alt="Tanzeem Khan's Dev Card"/></a>
